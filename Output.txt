@@ -1,0 +1,7 @@
+Financial Analysis 
+---------------------- 
+Total Number of Months: (total_months) 
+Total Profit: (total_profit_losses) 
+Average Change: (avg_change_in_profit) 
+Greatest Increase in Profits: (max_profit_increase) 
+Greatest Decrease in Profits: (min_profit_increase)
